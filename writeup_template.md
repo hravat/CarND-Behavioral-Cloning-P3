@@ -33,6 +33,12 @@ My project includes the following files:
 * drive_model.h5 containing a trained convolution neural network 
 * writeup_report.md or writeup_report.pdf summarizing the results
 
+# Model link in google drive
+As my model is too large I am ujnable to upload the complete file in github.
+As a result please refer below link where I have uploaded the model in google drive
+
+https://drive.google.com/open?id=1PYRaBTCc7MIwWpUW1-XinWfSYhkpiWtr
+
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
 ```sh
